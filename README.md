@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas.</h1>
-<h3 align="center">A data engineer and passionate about technologies from Brasil.</h3>
+<h3 align="center">A data engineer from Brasil and passionate about technologies.</h3>
 
 - 🏢 I'm currently work at **WEG S.A.**
 
