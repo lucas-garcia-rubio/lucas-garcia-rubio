@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas.</h1>
 <h3 align="center">A data engineer from Brasil and passionate about technologies.</h3>
 
-- 🏢 I'm currently work at **WEG S.A.**
+- 🏢 I'm currently work at **Linx**
 
 - 🌱 I’m currently learning **Data Engineering tools, Flutter, Dart, ML, etc**
 
