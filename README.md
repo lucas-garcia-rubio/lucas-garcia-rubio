@@ -3,7 +3,7 @@
 
 - 🏢 I'm currently work at **Linx**
 
-- 🌱 I’m currently learning **Data Engineering tools, Flutter, Dart, ML, etc**
+- 🌱 I’m currently learning **Data Engineering tools, ML, Deep Learning, etc**
 
 - 🏛 Graduated at **Universidade Tecnológica Federal do Paraná**
 
