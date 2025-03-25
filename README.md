@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas.</h1>
 <h3 align="center">A software engineer from Brazil and passionate about technologies.</h3>
 
-- 🏢 I'm currently work at **CERC**
-
-- 🌱 I’m currently learning **Java, Kotlin, Spring, Project Reactor**
+- 🏢 I'm currently work at **AlmaViva Solutions**
 
 - 🏛 Graduated at **Universidade Tecnológica Federal do Paraná**
 
@@ -13,7 +11,7 @@
 
 - 💬 Ask me about **Java, Spring, Python, Data**
 
-- 📫 How to reach me **lucas-knd@hotmail.com**
+- 📫 How to reach me **lucasgarciarubio@gmail.com**
 
 - ⚡ Fun fact **"Run the code. Okay, now let's face the errors."**
 
