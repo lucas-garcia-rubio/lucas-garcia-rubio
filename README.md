@@ -7,7 +7,7 @@
 
 - 🎓 Bachelor of **Computer Engineering**
 
-- 📝 I regularly write articles on [https://lucasgarciarubio.medium.com/](https://lucasgarciarubio.medium.com/)
+- 📝 I write articles on [https://lucasgarciarubio.medium.com/](https://lucasgarciarubio.medium.com/)
 
 - 💬 Ask me about **Java, Spring, Python, Data**
 
