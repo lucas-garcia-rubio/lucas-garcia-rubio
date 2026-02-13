@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://lucasgarciarubio.medium.com/](https://lucasgarciarubio.medium.com/)
 
-- 💬 Ask me about **Java, Spring, Python, Data**
+- 💬 Ask me about **Java, Spring**
 
 - 📫 How to reach me **lucasgarciarubio@gmail.com**
 
