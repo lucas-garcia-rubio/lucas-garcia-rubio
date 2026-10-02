@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas.</h1>
 <h3 align="center">A software engineer from Brazil and passionate about technologies.</h3>
 
-- 🏢 I'm currently work at **AlmaViva Solutions**
+- 🏢 I'm currently work at **iFood**
 
 - 🏛 Graduated at **Universidade Tecnológica Federal do Paraná**
 
